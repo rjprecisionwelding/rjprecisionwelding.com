@@ -1,0 +1,4 @@
+/* Resp 2 Column v1.6.3 Copyright 2013 Joe Workman */
+#stacks_in_37_page5 .jwresp_wrapper{width:100%;overflow:auto}#stacks_in_37_page5 .jwresp_col{overflow:hidden;margin:0;width:49%; float:left;}#stacks_in_37_page5 #jwresp_col2_stacks_in_37_page5{ float:right; width:49%}@media screen and (max-width:500px){#stacks_in_37_page5 #jwresp_col1_stacks_in_37_page5,#stacks_in_37_page5 #jwresp_col2_stacks_in_37_page5{width:100%;float:none;display:block}#stacks_in_37_page5 #jwresp_col1_stacks_in_37_page5{margin-bottom:15px}}
+/* Elevator v1.0.6 Copyright @2010-2012 Joe Workman */
+#toTop{display:none;text-decoration:none;position:fixed;bottom:10px;right:10px;overflow:hidden;width:51px;height:51px;border:0;text-indent:-9999px;background:url(../weldingandfabrication_files/elevator-images/top.png) no-repeat left top;z-index:9988} #toTop:hover{background:url(../weldingandfabrication_files/elevator-images/top.png) no-repeat left -51px} #toTop:active,#toTop:focus{outline:0}

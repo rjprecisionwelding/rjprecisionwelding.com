@@ -1,0 +1,11 @@
+body{background-image:url('../images/paper.jpg');background-size: auto}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+
+  /* Don't forget your Retina CSS! */
+  
+  body {
+    background-size: 600px 600px;
+  }
+
+}

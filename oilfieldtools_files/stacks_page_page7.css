@@ -1,0 +1,2 @@
+/* Elevator v1.0.6 Copyright @2010-2012 Joe Workman */
+#toTop{display:none;text-decoration:none;position:fixed;bottom:10px;right:10px;overflow:hidden;width:51px;height:51px;border:0;text-indent:-9999px;background:url(../oilfieldtools_files/elevator-images/top.png) no-repeat left top;z-index:9988} #toTop:hover{background:url(../oilfieldtools_files/elevator-images/top.png) no-repeat left -51px} #toTop:active,#toTop:focus{outline:0}

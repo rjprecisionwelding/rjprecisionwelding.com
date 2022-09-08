@@ -1,0 +1,17 @@
+#container aside{display: none;}
+#container #content{
+	margin-top: 0;
+	width: auto;
+	padding: 5%;
+	margin-left: 0;
+	float: none;
+}
+#container #content #push {padding-left: 0;}
+
+@media screen and (min-width: 771px) {
+
+	#container #content #push ul#breadcrumb{
+	top: -10px;
+	position: relative;
+	}
+}

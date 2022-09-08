@@ -1,0 +1,21 @@
+#shadow,
+header #menu,
+#shadow nav,
+#shadow nav > ul > li:last-child, 
+#shadow nav > ul > li:last-child > a,
+#shadow nav > ul > li.open > a,
+#shadow nav > ul > li > ul,
+header,
+header #noblur,
+header #bgblur,
+#feature,
+#container,
+#container #content #push ul#breadcrumb,
+aside h2#title,
+aside #content,
+aside h2#title + #content,
+.blog-entry img{
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}

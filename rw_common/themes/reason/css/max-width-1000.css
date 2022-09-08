@@ -1,0 +1,2 @@
+#wrapper{max-width:1000px;}#bgblur,#feature{background-size:1000px auto;}
+@media screen and (max-width: 770px) {#bgblur,#feature{background-size: auto 500px;}}
